@@ -1,0 +1,19 @@
+div {
+    color: white;
+}
+
+.subsection.header {
+    color: red;
+}
+
+#parent {
+    color: red;
+}
+
+.child {
+    color: blue;
+}
+
+.warning {
+    color: red;
+}
